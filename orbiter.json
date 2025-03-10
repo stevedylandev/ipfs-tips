@@ -1,0 +1,6 @@
+{
+  "siteId": "bb526aa5-e2b5-460e-acdf-5c914f74720e",
+  "domain": "ipfs-tips",
+  "buildCommand": "pnpm run build",
+  "buildDir": "dist"
+}
